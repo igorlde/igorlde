@@ -1,5 +1,5 @@
-Hello if you stay here you find my profile i have 17 old years is i are always learne,
-forever searche news solutions for my problems, and forever learne about the world from programing
+Hello, if you stay here you will find my profile. I am 17 years old and I am always learning, 
+constantly searching for new solutions to my problems, and forever learning about the world through programming.
 
 My knowledge:
 
