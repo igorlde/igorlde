@@ -8,6 +8,12 @@ Tools: HTML and CSS
 
 Back-end:
 
-Languages of programing: Java and PHP.
-Tools: Laravel and Spring-booot.
-Databases: Mysql and PostGreSQL
+Languages of programing: 
+
+Java and PHP.
+Tools: 
+
+Laravel and Spring-booot.
+Databases:
+
+Mysql and PostGreSQL
