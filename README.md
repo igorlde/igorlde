@@ -1,19 +1,23 @@
-Hello, if you stay here you will find my profile. I am 17 years old and I am always learning
-, constantly searching for new solutions to my problems, and learning about the world programming.
+# 👋 Hello there!
 
-My knowledge:
+Welcome to my profile! I'm a 17-year-old developer who is always learning, constantly searching for new solutions to problems, and diving deeper into the world of programming. 🚀
 
-Front-end:
-Tools: HTML and CSS
+## 🧠 About Me
 
-Back-end:
+I'm passionate about solving problems using code and building useful things. Every day is an opportunity to learn something new, whether it's a new language, framework, or concept.
 
-Languages of programing: 
+---
 
-Java and PHP.
-Tools: 
+## 💻 Tech Stack
 
-Laravel and Spring-booot.
-Databases:
+### 🖼️ Front-End:
+- **Tools:** HTML, CSS
 
-Mysql and PostGreSQL
+### ⚙️ Back-End:
+- **Languages:** Java, PHP  
+- **Frameworks/Tools:** Spring Boot, Laravel  
+- **Databases:** MySQL, PostgreSQL
+
+---
+
+Thanks for visiting my profile!
