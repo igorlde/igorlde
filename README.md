@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-Welcome to my profile! I'm a 17-year-old developer who is always learning, constantly searching for new solutions to problems, and diving deeper into the world of programming. 🚀
+Welcome to my profile! I'm a 18-year-old developer who is always learning, constantly searching for new solutions to problems, and diving deeper into the world of programming. 🚀
 
 ## 🧠 About Me
 
